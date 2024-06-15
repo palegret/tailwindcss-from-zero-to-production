@@ -4,7 +4,8 @@
   "description": "Repository for the 'Tailwind CSS v2.0: From Zero to Production' tutorial series.",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "prettier": "npx prettier src --write"
   },
   "keywords": [],
   "author": "",
