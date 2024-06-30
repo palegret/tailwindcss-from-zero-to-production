@@ -1,6 +1,8 @@
 {
   "name": "tailwindcss-from-zero-to-production",
+  "private": true,
   "version": "1.0.0",
+  "type": "module",
   "description": "Repository for the 'Tailwind CSS v2.0: From Zero to Production' tutorial series.",
   "main": "index.js",
   "scripts": {
